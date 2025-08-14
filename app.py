@@ -1,4 +1,4 @@
-import opencv-python
+import cv2
 import streamlit as st
 import numpy as np
 from datetime import datetime
@@ -57,4 +57,5 @@ def app():
 
 if __name__ == "__main__":
     app()
+
 
